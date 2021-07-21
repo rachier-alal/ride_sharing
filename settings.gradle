@@ -1,0 +1,2 @@
+rootProject.name = "Fleet Manager"
+include ':app'
